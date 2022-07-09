@@ -1,2 +1,2 @@
 # Tugas-kelompok-algoritma-lanjutan
-Tuags Faiz &amp; Qadri
+Tugas Faiz &amp; Qadri
